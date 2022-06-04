@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979373728400",
+    "project_id": "nust-shuttle-tracker",
+    "storage_bucket": "nust-shuttle-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979373728400:android:c47dc4d66fb4b5b8f5ee15",
+        "android_client_info": {
+          "package_name": "com.example.shuttletracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979373728400-dgiskvvokcseuk55egj1i9d9ajvcgsjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_SSNevk8wwtdM0FEeDcxweVRp2wlFsJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979373728400-dgiskvvokcseuk55egj1i9d9ajvcgsjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
